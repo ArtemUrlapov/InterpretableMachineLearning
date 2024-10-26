@@ -1,3 +1,6 @@
+# Interpretable Machine Learning - Sistema Experto para Predicción y Mejora del Rendimiento Escolar
+## Artem Urlapov Sedova
+
 <p align="justify">
   
 En el presente trabajo, buscamos predecir y mejorar el rendimiento de los alumnos de dos colegios desaventajados.

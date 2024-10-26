@@ -11,7 +11,7 @@ A fin de captar mejor las posibles no linealidades, recurrimos al método de Spe
 
 Hacemos uso de dos algoritmos de Supervised Machine Learning (Stochastic Gradient Boosting, con un MSE alcanzado de 0.16 y Random Forest, con un MSE obtenido de 0.15), cuyos resultados contrastamos a su vez mediante los algoritmos de Interpretable Machine Learning LIME y SHAP. 
 
-Finalmente, probamos obtener un ajuste aún mejor mediante las técnicas de Deep Learning de las Redes Neuronales Artificiales y Long-Short Term Memory, si bien no consiguen superar los resultados de las dos algoritmos de Machine Learning previamente mencionados (en parte, debido al hecho de que se trata de un dataset relativamente pequeño).
+Finalmente, probamos obtener un ajuste aún mejor mediante las técnicas de Deep Learning de las Redes Neuronales Artificiales y Long Short-Term Memory, si bien no consiguen superar los resultados de las dos algoritmos de Machine Learning previamente mencionados (en parte, debido al hecho de que se trata de un dataset relativamente pequeño).
 
 Los resultados nos muestran que la variable ausencias a clase es clave para mejorar el rendimiento escolar. El método SHAP (presentado como más robusto que LIME), concretamente, nos sugiere otorgar una mayor ponderación a esta variable. Por otra parte, el efecto de las otras tres variables coyunturales (consumo de alcohol entre semana, consumo de alcohol los fines de semana y tiempo libre) es marginal.
 

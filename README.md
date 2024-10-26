@@ -5,7 +5,7 @@
   
 En el presente trabajo, buscamos predecir y mejorar el rendimiento de los alumnos de dos colegios desaventajados.
   
-Así, tenemos una serie de variables estructurales (caso del rendimiento -promedio en lo académico- del primer período, del segundo período o el -bajo- nivel educativo de los padres) a la vez que otras variables coyunturales (ausencias a clase o consumo de alcohol). Consecuentemente, en el Sistema Experto buscamos incidir sobre las variables coyunturales. Así, creemos poder mejorar nuestra variable objetivo (nota final) reduciendo las ausencias a clase y el consumo de alcohol entre semana. Dejamos como ambiguo el potencial efecto de otras dos variables: tiempo libre y consumo de alcohol entre semana.
+Así, tenemos una serie de variables estructurales (caso del rendimiento -promedio en lo académico- del primer período, del segundo período o el -bajo- nivel educativo de los padres) a la vez que otras variables coyunturales (ausencias a clase o consumo de alcohol). Consecuentemente, en el Sistema Experto buscamos incidir sobre las variables coyunturales. Creemos poder mejorar nuestra variable objetivo (nota final) reduciendo las ausencias a clase y el consumo de alcohol entre semana. Dejamos como ambiguo el potencial efecto de otras dos variables: tiempo libre y consumo de alcohol entre semana.
 
 A fin de captar mejor las posibles no linealidades, recurrimos al método de Spearman en el análisis de correlaciones y utilizamos Principal Component Analysis como técnica de preprocesamiento de datos.
 
